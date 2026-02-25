@@ -14,3 +14,6 @@ models/
 output/
 satellite_images/
 .DS_Store
+*.class
+*.test1.py
+*.java

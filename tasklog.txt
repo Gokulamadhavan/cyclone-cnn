@@ -39921,3 +39921,44 @@ Saved VIS to: C:\Users\HP\cnn\satellite_images\VIS_20260225_122233.jpg
 Starting download for WV at 2026-02-25 12:22:42.676161
 Saved WV to: C:\Users\HP\cnn\satellite_images\WV_20260225_122233.jpg
 === Script finished ===
+Running test.py from C:\Users\HP\cnn
+Python executable: C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe
+Starting download for IR at 2026-02-25 12:37:30.500026
+Starting download for VIS at 2026-02-25 12:37:41.224651
+Saved VIS to: C:\Users\HP\cnn\satellite_images\VIS_20260225_123730.jpg
+Starting download for WV at 2026-02-25 12:38:18.341876
+Saved WV to: C:\Users\HP\cnn\satellite_images\WV_20260225_123730.jpg
+=== Script finished ===
+Running test.py from C:\Users\HP\cnn
+Python executable: C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe
+Starting download for IR at 2026-02-25 12:52:32.416717
+Starting download for VIS at 2026-02-25 12:52:47.981439
+Starting download for WV at 2026-02-25 12:52:59.843434
+=== Script finished ===
+Running test.py from C:\Users\HP\cnn
+Python executable: C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe
+Starting download for IR at 2026-02-25 14:11:39.089831
+Saved IR to: C:\Users\HP\cnn\satellite_images\IR_20260225_141139.jpg
+Starting download for VIS at 2026-02-25 14:11:45.842603
+Saved VIS to: C:\Users\HP\cnn\satellite_images\VIS_20260225_141139.jpg
+Starting download for WV at 2026-02-25 14:11:47.076187
+Saved WV to: C:\Users\HP\cnn\satellite_images\WV_20260225_141139.jpg
+=== Script finished ===
+Running test.py from C:\Users\HP\cnn
+Python executable: C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe
+Starting download for IR at 2026-02-25 14:22:30.960734
+Saved IR to: C:\Users\HP\cnn\satellite_images\IR_20260225_142230.jpg
+Starting download for VIS at 2026-02-25 14:22:44.516131
+Saved VIS to: C:\Users\HP\cnn\satellite_images\VIS_20260225_142230.jpg
+Starting download for WV at 2026-02-25 14:22:55.814965
+Saved WV to: C:\Users\HP\cnn\satellite_images\WV_20260225_142230.jpg
+=== Script finished ===
+Running test.py from C:\Users\HP\cnn
+Python executable: C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe
+Starting download for IR at 2026-02-25 14:37:31.319071
+Saved IR to: C:\Users\HP\cnn\satellite_images\IR_20260225_143731.jpg
+Starting download for VIS at 2026-02-25 14:37:33.559397
+Saved VIS to: C:\Users\HP\cnn\satellite_images\VIS_20260225_143731.jpg
+Starting download for WV at 2026-02-25 14:37:35.814260
+Saved WV to: C:\Users\HP\cnn\satellite_images\WV_20260225_143731.jpg
+=== Script finished ===
