@@ -17,3 +17,5 @@ satellite_images/
 *.class
 *.test1.py
 *.java
+Main.java
+test1.py
