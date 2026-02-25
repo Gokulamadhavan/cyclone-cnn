@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.h5
+*.pt
+*.pth
+*.npy
+*.log
+data/
+dataset/
+checkpoints/
+models/
+.venv/
+output/
+satellite_images/
+.DS_Store
