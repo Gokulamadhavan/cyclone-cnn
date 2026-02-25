@@ -39962,3 +39962,12 @@ Saved VIS to: C:\Users\HP\cnn\satellite_images\VIS_20260225_143731.jpg
 Starting download for WV at 2026-02-25 14:37:35.814260
 Saved WV to: C:\Users\HP\cnn\satellite_images\WV_20260225_143731.jpg
 === Script finished ===
+Running test.py from C:\Users\HP\cnn
+Python executable: C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe
+Starting download for IR at 2026-02-25 14:52:30.820335
+Saved IR to: C:\Users\HP\cnn\satellite_images\IR_20260225_145230.jpg
+Starting download for VIS at 2026-02-25 14:52:34.983850
+Saved VIS to: C:\Users\HP\cnn\satellite_images\VIS_20260225_145230.jpg
+Starting download for WV at 2026-02-25 14:52:37.952119
+Saved WV to: C:\Users\HP\cnn\satellite_images\WV_20260225_145230.jpg
+=== Script finished ===
